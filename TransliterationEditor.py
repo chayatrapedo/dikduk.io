@@ -3,7 +3,7 @@ Chaya Trapedo - dkdk.io Transliteration Editor
 I hereby certify that this program is solely the result of my own work and 
 is in compliance with the Academic Integrity policy of the course syllabus. 
 
-NOTE: Full citations to external resources are in "Project Info.txt"
+NOTE: Full citations to external resources are in README.md
 """
 import Draw
 import string
