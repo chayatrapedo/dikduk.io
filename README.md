@@ -4,8 +4,8 @@ Capstone Project - Intro to CS Fall 2023
 dikduk.io is a transliteration editor that flags potentially misspelled transliterated Hebrew and Yiddish words. Users load a .txt file they want to edit and the program will flag potentially incorrect words. After users make and save their edits, a new edited .txt file is returned with document stats. 
 
 ### Features:
-- _Text Editing_: Users can edit transliterated text files by making changes to individual words.
-- _File Handling_: Supports opening, editing, and saving .txt files containing transliterated text.
+- **Text Editing**: Users can edit transliterated text files by making changes to individual words.
+- **File Handling**: Supports opening, editing, and saving .txt files containing transliterated text.
 
 ### Instructions:
 Upon running the program, follow the on-screen instructions to interact with the GUI.
